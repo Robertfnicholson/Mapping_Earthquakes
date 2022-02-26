@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+# Ignore the config.js file
+=======
+<<<<<<< HEAD
+# Ignore the config.js file
+=======
+# Ignore the config.js file
+>>>>>>> 5bc45e56de926ecc9f2618be84d3d98a963b88d5
+>>>>>>> e3c98f2fc3be21060752acb332c59cf79e1a2406
+=======
+<<<<<<< HEAD
+# Ignore the config.js file
+=======
+<<<<<<< HEAD
+# Ignore the config.js file
+=======
+# Ignore the config.js file
+>>>>>>> 5bc45e56de926ecc9f2618be84d3d98a963b88d5
+>>>>>>> e3c98f2fc3be21060752acb332c59cf79e1a2406
+>>>>>>> 534cf703d24df2d069d36be2c546978ac6e8fb17
+config.js
