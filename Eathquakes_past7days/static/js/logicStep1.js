@@ -31,15 +31,15 @@ let map = L.map('mapid', {
 // Pass map layers into layers control and add the layers control to the map.
 L.control.layers(baseMaps).addTo(map);
 
-let torontoHoods = "https://raw.githubusercontent.com/peterg7/Mapping_Earthquakes_GISH/Mapping_GeoJSON_Polygons/torontoNeighborhoods.json";
+//let torontoHoods = "https://raw.githubusercontent.com/peterg7/Mapping_Earthquakes_GISH/Mapping_GeoJSON_Polygons/torontoNeighborhoods.json";
 
 // Create a style for the polygons.
-let myStyle = {
-	color: 'blue',
-	weight: 1,
-	fillColor: 'yellow',
-	fillOpacity: 0.2
-}
+//let myStyle = {
+//	color: 'blue',
+//	weight: 1,
+//	fillColor: 'yellow',
+//	fillOpacity: 0.2
+//}
 
 // Retrieve the earthquake GeoJSON data.
 d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson").then(function(data) {
