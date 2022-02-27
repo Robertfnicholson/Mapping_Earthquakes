@@ -13,8 +13,8 @@ involved the use of JavaScript and the D3.js library to retrieve the coordinates
 from the GeoJSON data. I used the Leaflet library to plot the data on a Mapbox map through an API request and 
 created interactivity for the earthquake data. Then I added the tectonic plate data and major earthquake data with 
 a similar approach as the earthquake data. Finally, I added functionality that allows the user to display the three 
-data sets individually or in different combinations and also that allows the user to display in one of three 
-different map views. </p>
+data sets individually or in different combinations and also added functionality that allows the user to display in
+one of three different map views: streets, satellite, and dark. </p>
 
 ## Results
 The project had three deliverables in which I completed:
