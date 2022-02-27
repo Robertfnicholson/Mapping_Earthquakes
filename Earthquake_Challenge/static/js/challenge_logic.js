@@ -34,6 +34,7 @@ let allEarthquakes = new L.LayerGroup();
 let tectonicplates = new L.LayerGroup();
 
 // 2. Add a reference to the tectonic plates group to the overlays object.
+// Referenced code from Peter Gish's "logic.js"file on GitHub to correct the syteax for overlay reference.
 let overlays = {
   "Earthquakes": allEarthquakes,
   "Tectonic Plates": tectonicplates
@@ -143,6 +144,7 @@ legend.onAdd = function() {
 
 
   // 3. Use d3.json to make a call to get our Tectonic Plate geoJSON data.
+  // Referenced code from Peter Gish's "logic.js"file on GitHub to correct the syteax for lineStyle.
   let lineStyle = {
     color: "#ff7438",
     weight: 2  
